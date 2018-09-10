@@ -1,3 +1,3 @@
-# Site dans le but de l'ICN de la classe de seconde
+# Site dans le but de l'ICN de la classe de première.
 
-Site crée par Maël / Eleve de seconde pour l'option ICN
+Site crée par Maël / Eleve de première pour l'option ICN
